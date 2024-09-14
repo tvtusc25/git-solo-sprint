@@ -1,1 +1,1 @@
-Branch B changes for merge conflict
+Changes in branch1
