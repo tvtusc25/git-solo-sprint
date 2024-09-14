@@ -1,1 +1,1 @@
-Changes in branch1
+Merged changes from both branches
