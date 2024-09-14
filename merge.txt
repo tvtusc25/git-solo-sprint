@@ -1,1 +1,1 @@
-Branch A changes for merge conflict
+Branch B changes for merge conflict
